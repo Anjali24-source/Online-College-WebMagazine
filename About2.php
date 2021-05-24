@@ -14,7 +14,7 @@
     
      <br>
    <div class="home">
-     <h1>About Kanoria</h1>
+     <h1>About Kanoria College</h1>
     </div> 
      <br>
      
